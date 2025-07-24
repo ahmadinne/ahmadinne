@@ -2,7 +2,7 @@
 
 <br /><br /><br />
 
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=ahmadinne&theme=solarized&fg=%233e3e3e&bg=%23dedede&hide_avatar=true&langs=false&show=stars,followers,following,issues,commits" width="90%" />
+<img src="https://pretty-profile.vercel.app/api/github-stats?username=ahmadinne&theme=solarized&fg=%233e3e3e&bg=%23dedede&hide_avatar=true&langs=false&show=stars,repos,followers,issues,commits" width="100%" />
 
 <br />
 </div>
