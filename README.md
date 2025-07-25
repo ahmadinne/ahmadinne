@@ -1,8 +1,15 @@
-<div align="center">
+<p align="left"><strong><samp>「</samp></strong></p>
+   <p align="center">
+      <samp>
+         <em>Hello There!</em>
+      </samp><br>
+   </p>
+   <p align="center">
+      <samp>
+         <a href="https://discord.gg/kQGxmgeza4" target="_blank">Discord</a> &#8226;
+         <a href="https://youtube.com/@4hmadinne" target="_blank">Youtube</a>
+      </samp>
+   </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-<br /><br /><br />
-
-<img src="https://pretty-profile.vercel.app/api/github-stats?username=ahmadinne&theme=simple&fg=%233e3e3e&bg=%23dedede&hide_avatar=true&langs=false&show=stars,repos,followers,issues,commits" width="100%" />
-
-<br />
-</div>
+<!-- reference: kizu ( janleigh ) -->
